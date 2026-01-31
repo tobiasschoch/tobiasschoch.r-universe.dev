@@ -1,0 +1,14 @@
+ [
+    {
+        "package": "rsae",
+        "url": "https://github.com/tobiasschoch/rsae"
+    },
+    {
+        "package": "wbacon",
+        "url": "https://github.com/tobiasschoch/wbacon"
+    },
+    {
+        "package": "robsurvey",
+        "url": "https://github.com/tobiasschoch/robsurvey"
+    }
+]
