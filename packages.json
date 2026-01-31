@@ -10,9 +10,5 @@
     {
         "package": "robsurvey",
         "url": "https://github.com/tobiasschoch/robsurvey"
-    },
-    {
-        "package": "testdtrmm",
-        "url": "https://github.com/tobiasschoch/testdtrmm"
     }
 ]
